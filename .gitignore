@@ -2,3 +2,9 @@ node_modules
 prepared
 archive.zip
 .idea
+.DS_Store
+.idea/Dantzig.iml
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
